@@ -1,0 +1,14 @@
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.exe.config
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.exe
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.pdb
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.exe
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.pdb
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.exe.config
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.exe
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\bin\Debug\MutacjaDrzew_Repozytorium.pdb
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.exe
+C:\Users\48502\source\repos\MutacjaDrzew_Repozytorium — kopia\MutacjaDrzew_Repozytorium\obj\Debug\MutacjaDrzew_Repozytorium.pdb
