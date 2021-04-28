@@ -54,7 +54,7 @@ namespace MutacjaDrzew_Repozytorium
             var randomEdge = GetRandomEdge();
             E.Remove(randomEdge);
 
-            // Znalezienie sasiadow   usnietej krawedzi
+            // Znalezienie sasiadow  usunietej krawedzi
             var neighborsVerticeI = GetNeighbors(randomEdge.I);
 
 
@@ -90,7 +90,7 @@ namespace MutacjaDrzew_Repozytorium
 
            
             List<Wierzcholek> verticesDiffrence = V.Where(x => !allNeighbors.Contains(x)).ToList();
-            // Utworzenie nowej krawedzi
+            // Utworzenie nowej krawedzi dla usuniętej
             CreateRandomEdge(randomEdge.J, verticesDiffrence);
         }
       
